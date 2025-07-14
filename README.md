@@ -1,4 +1,4 @@
-# Prompt Engineering Toolkit by RenMars C.
+# Prompt Engineering Toolkit by Rene Mars C.
 
 A practical, no-fluff guide to crafting powerful prompts for AI—built for students, teachers, creatives, and critical thinkers.
 
